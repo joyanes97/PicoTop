@@ -39,7 +39,7 @@ This FAT16 file system does NOT support LFN (Long File Names). It strictly uses 
 
 This repository is not used for active development, so everything is in one commit. It will be updated again at the next major milestone.
 
-I am not great at coding, so you will probably find a lot of bad practices and bugs, but I am mostly happy with where the project is right now. I used AI to help write a few snippets and also help with the certain architectures, like for the file system and the text editor.
+I'm not a professional software engineer, so you will probably find a few bad practices and bugs, but I am mostly happy with where the project is right now. I used AI to help write a few snippets and also help with the certain architectures, like for the file system and the text editor.
 
 ## More Images
 
